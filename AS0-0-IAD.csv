@@ -1,0 +1,27 @@
+﻿IP地址,端口,回源端口,TLS,数据中心,地区,城市,TCP延迟(ms),速度(MB/s)
+75.2.32.4,443,443,true,IAD,North America,Ashburn,137,11.47
+99.83.209.185,443,443,true,IAD,North America,Ashburn,172,10.18
+4.255.56.137,80,80,false,IAD,North America,Ashburn,248,6.99
+4.255.56.138,80,80,false,IAD,North America,Ashburn,244,6.89
+172.200.2.241,443,443,true,IAD,North America,Ashburn,236,5.83
+5.161.71.41,443,443,true,IAD,North America,Ashburn,193,5.39
+150.136.241.40,443,443,true,IAD,North America,Ashburn,230,5.38
+172.208.44.21,443,443,true,IAD,North America,Ashburn,247,2.51
+47.253.86.6,443,443,true,IAD,North America,Ashburn,215,0.49
+20.119.73.200,80,80,false,IAD,North America,Ashburn,244,0.46
+170.106.35.96,80,80,false,IAD,North America,Ashburn,367,0.30
+129.159.83.88,8443,443,true,IAD,North America,Ashburn,212,0.23
+198.144.183.24,443,443,true,IAD,North America,Ashburn,202,0.15
+3.235.98.66,443,443,true,IAD,North America,Ashburn,196,0.00
+52.206.25.221,443,443,true,IAD,North America,Ashburn,200,0.00
+20.121.115.188,443,443,true,IAD,North America,Ashburn,242,0.00
+20.246.127.166,443,443,true,IAD,North America,Ashburn,195,0.00
+34.194.76.43,443,443,true,IAD,North America,Ashburn,199,0.00
+150.136.87.192,443,0,true,IAD,North America,Ashburn,286,0.00
+132.145.134.230,443,443,true,IAD,North America,Ashburn,314,0.00
+52.252.14.249,443,443,true,IAD,North America,Ashburn,241,0.00
+67.226.221.231,443,443,true,IAD,North America,Ashburn,190,0.00
+18.235.208.126,443,443,true,IAD,North America,Ashburn,200,0.00
+18.211.101.20,443,443,true,IAD,North America,Ashburn,197,0.00
+172.174.249.255,443,443,true,IAD,North America,Ashburn,252,0.00
+67.226.220.10,443,443,true,IAD,North America,Ashburn,192,0.00
